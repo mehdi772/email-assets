@@ -1,3 +1,3 @@
-# email-assets
+# assets
 
-Hosted images for Mehdi Mohaghegh's email signature (Solico Group).
+Static image assets.
